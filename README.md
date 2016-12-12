@@ -4,7 +4,10 @@ Ce projet a pour but de vous accompagner dans vos premiers pas avec **gulp**.
 
 Expérimentez avec et n'ayez pas peur de l'utiliser en **base de tout vos projets**.
 
+
+
 ![This is gulp](https://raw.githubusercontent.com/simplonco/gulp-basis/master/src/assets/img/gulp.jpg)
+
 
 Récupérer le projet
 -------------
@@ -40,7 +43,10 @@ La tâche _build-all_ doit être exécutée en premier afin de build à la fois 
 
 ```$ gulp build-all```
 
+
+
 ![gulp workflow](https://raw.githubusercontent.com/simplonco/gulp-basis/master/src/assets/img/workflow.png)
+
 
 Livereload
 -------------
